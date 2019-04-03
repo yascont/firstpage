@@ -1,0 +1,155 @@
+/*start main rulez*/
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+body{height: }
+.container1{width: 1300px;margin: auto;
+}
+
+.container2{
+    width:1100px;
+    margin:auto;
+}
+
+/*end main rulez*/
+
+/*start header*/
+.navbar{
+ background-color: #F5F5F5;
+ position: fixed;
+ width: 100%;
+ overflow: hidden;
+ top: 0;
+
+
+}
+.navbar h1{
+    float: left;
+     overflow: hidden;
+
+    
+}
+.navbar ul {
+    list-style: none;
+    float:right;
+     overflow: hidden;
+    font-size: 20px
+
+}
+.navbar ul li {
+    float: left;
+    overflow: hidden;
+    padding: 30px;
+    padding-left: 0%;}
+/*end header*/
+
+/*start body*/
+.slider{
+ background-image: url(img/img1.jpg);
+ background-size: cover;
+ width: 100%;
+ height: 800px;
+ font-family:cursive
+
+}
+
+
+.slider .container2 .intro{
+    padding-top: 300px;
+    text-align: center;
+    color: #fff;
+    
+}
+
+
+.slider .container2 .intro h2{
+    color: #FFF;
+    padding:40px;
+    font-weight: 1000;
+    font-size: 50px
+}
+
+.slider .container2 .intro h2 SPAN{color:#5DA2FB}
+
+.slider p{
+    font-size: 25px
+}
+/*end body*/
+
+/*start OUR SERVICES*/
+.our{
+    background-color: #5DA2FB;
+    width: 100%;
+    height: 700px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.our>div{font-family:sans-serif;}
+
+.our .container2 h2{
+    padding-top: 50px ;
+    padding-bottom: 10px;    
+}
+
+hr{
+   margin-top: 20px 
+}
+
+.our .container2 > div{
+    width:33.333%;
+    float: left;
+    padding: 50px;
+    padding-bottom: 20px;
+}
+
+.our h3{padding: 15px}
+
+.app , .travels , .Traduction{
+    margin-left: 150px
+}
+
+/*end OUR SERVICES*/
+
+/* start our work*/
+
+.Our-Works h2{
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+
+.Our-Works img{
+    width: 29%;
+    height: 270px;
+    float:left;
+    padding: 15px;
+}
+
+/* end our work*/
+
+/*start footer2*/
+.footer2{
+    text-align:center;
+    background-color: black;
+    color: #fff;
+    margin-top: 900px;
+    padding: 30px;
+
+}
+.footer2 a{
+color:aqua;
+text-decoration: none;
+}
+
+
+
+/*end footer2*/
